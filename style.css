@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Signika:wght@300..700&display=swap');
+
+
+html {
+  height: 100%;
+  width: 100%;
+}
+
+header{
+  font-family: 'Signika', sans-serif;
+  color: white;
+  background-color: #1a1a1a;
+  height: 250px;
+  
+  border: solid 5px #1a1a1a;
+}
+
+.logo{
+  position: relative;
+  top:15px;
+  text-align: center;
+}
+
+body{
+  background-color: white;
+}
+
+.link1{
+  color: white;
+  font-size: 30px;
+  position: relative;
+  left: 28%;
+  font-weight: 700;
+}
+
+.link2{
+  color: white;
+  font-size: 30px;
+  position: relative;
+  left: 34%;
+  font-weight: 700;
+}
+
+.link3{
+  color: white;
+  font-size: 30px;
+  position: relative;
+  left: 39%;
+  font-weight: 700;
+}
+
+
+
+.link1,.link2,.link3,.link4{
+  position: relative;
+  top:40%;
+  
+}
+
+a{
+  text-decoration: none;
+}
+
+.cont1,.cont2,.cont3,.cont4,.cont5,.cont6,.cont7,.cont8,.cont9{
+  border:solid 5px black;
+  width:276px;
+  height:400px;
+  font-family: 'Signika', sans-serif;
+  text-align: center;
+
+}
+
+.cont1a{
+  border:solid 5px black;
+  width:453px;
+  height:546px;
+  font-family: 'Signika', sans-serif;
+  text-align: center;
+  
+}
+
+.parent{
+  display: flex;
+  justify-content:space-between;
+}
+.parent1a{
+  display: flex;
+  justify-content:space-between;
+}
+.parent2{
+  display: flex;
+  justify-content:space-between;
+}
+.parent3{
+  display: flex;
+  justify-content:space-between;
+}
+
+.title{
+  text-align:center;
+  font-size:50px;
+  font-family: 'Signika', sans-serif;
+}
+
+footer{
+  font-family: 'Signika', sans-serif;
+  color: white;
+  background-color: #1a1a1a;
+  height: 250px;
+
+  border: solid 5px #1a1a1a;
+}
+
+.aboutus{
+  font-family: 'Signika', sans-serif;
+}
